@@ -11,8 +11,13 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+.secondery-bg{
+  background-color: #bcbbdc;
+}
 .header{
-  background-image: url('../Hero-bg.png');
+  background-image: url('../Assets/Hero-bg.png');
+  padding-bottom: 200px;
+  max-width: 1680px;
 }
 
 .text-primary{
@@ -28,7 +33,6 @@
 nav{
   display: flex;
   justify-content: space-between;
-  align-items: center;
   margin: 0 100px;
 }
 .nav-title{
@@ -36,6 +40,7 @@ nav{
   width: 99px;
   height: 51px;
   background-color: none;
+  text-align: center;
 }
 .sign-btn{
   width: 132px;
@@ -51,7 +56,7 @@ nav{
   gap: 37;
 }
 .banner{
-  max-width: 905px;
+  width: 905px;
   margin: 309px 267px 152px;
   text-align: center;
   padding-bottom: 158px;
@@ -62,6 +67,7 @@ nav{
 .action-content{
   display: flex;
   justify-content: space-between;
+  align-items: center;
 
 }
 .action-title{
@@ -89,4 +95,47 @@ nav{
   width: 403px;
   height: 328px;
   border-radius: 48px;
+}
+.section2{
+  max-width: 1140px;
+  margin: 150px 159px 138px 159px;
+  border-radius: 0%;
+  text-align: center;
+  border-radius: 24px;
+  padding: 50px 142px;
+}
+.productive-users{
+  justify-content: space-between;
+  text-align: center;
+  display: flex;
+  width: 856px;
+  height: 206px;
+  gap: 40px;
+
+}
+.users-title{
+  font-weight: bold;
+  font-size: 38px;
+}
+.users-section{
+  gap: 40px;
+}
+.users{
+  font-weight: bold;
+  font-size: 80px;
+}
+.sessions{
+  font-weight: bold;
+  font-size: 80px;
+}
+.rate{
+  font-weight: bold;
+  font-size: 80px;
+}
+.details1{
+  gap: none;
+}
+.description{
+  font-size: 20px;
+  
 }
