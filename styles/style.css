@@ -78,7 +78,7 @@ nav{
   font-size: 24px;
 }
 .action{
-  margin: 0px 330px 152px 330px;
+  margin: 152px 260px 152px 260px;
 }
 .content{
   margin: 62.5px 220px 62.5px 0;
@@ -96,7 +96,7 @@ nav{
   border-radius: 48px;
 }
 .section2{
-  margin: 0px 330px 152px 330px;
+  margin: 152px 260px 152px 260px;
   border-radius: 0%;
   text-align: center;
   border-radius: 24px;
@@ -119,13 +119,13 @@ nav{
   padding: 152px 206px;
 }
 .users-section{
-  gap: 0;
+  gap: 10;
 }
+
 .users{
   margin-top: 10px;
   font-weight: bold;
   font-size: 80px;
-  padding-top: 20px;
 }
 .sessions{
    margin-top: 10px;
@@ -149,16 +149,16 @@ nav{
   display: flex;
   justify-content: space-between;
   text-align: center;
-  margin: 152px 330px 152px 330px;
+  margin: 152px 260px 152px 160px;
   
 }
 .touch-content{
-  gap: 1140px;
+  gap: 200px;
   display: flex;
   justify-content: space-between;
   text-align: center;
   align-content: center;
-  margin: 152px 330px 152px 330px;
+  margin: 152px 260px 152px 160px;
 }
 .touch-title{
   font-weight: bold;
