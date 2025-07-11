@@ -139,3 +139,42 @@ nav{
   font-size: 20px;
   
 }
+.touch{
+  padding: 71px 0px;
+  display: flex;
+  gap: 300px;
+}
+.touch-content{
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  max-width: 1440px;
+  margin: 24px;
+}
+.touch-title{
+  font-weight: bold;
+  font-size: 97px;
+}
+.email{
+  height: 70px;
+  border-radius: 10px;
+  display: block;
+  width: 499px;
+}
+.name{
+  height: 60px;
+  border-radius: 10px;
+  display: block;
+  width: 499px;
+}
+.text-messege{
+  width: 499px;
+  height: 150px;
+  display: block;
+}
+.touch-btn{
+  width: 499px;
+  height: 62px;
+  border-radius: 10px;
+  display: block;
+}
